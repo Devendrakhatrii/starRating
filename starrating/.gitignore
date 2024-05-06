@@ -22,9 +22,3 @@ dist-ssr
 *.sln
 *.sw?
 
-
-tailwind.config.js
-package.json
-postcss.config
-package-lock.json
-.eslintrc.cjs
